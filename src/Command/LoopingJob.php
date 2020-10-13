@@ -1,6 +1,6 @@
 <?php
 
-namespace Nbj\Command;
+namespace Cego\Command;
 
 use Carbon\Carbon;
 use Nbj\Stopwatch;

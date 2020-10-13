@@ -1,6 +1,6 @@
 <?php
 
-namespace Nbj;
+namespace Cego;
 
 use ZMQSocket;
 use RuntimeException;

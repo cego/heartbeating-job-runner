@@ -1,12 +1,12 @@
 <?php
 
-namespace Nbj\Traits;
+namespace Cego\Traits;
 
 use ZMQ;
 use ZMQSocket;
 use ZMQContext;
 use ZMQSocketException;
-use Nbj\DelegationProxyConnection;
+use Cego\DelegationProxyConnection;
 
 /**
  * Trait SendsZMQHeartbeats

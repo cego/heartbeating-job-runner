@@ -1,5 +1,5 @@
 {
-    "name": "nbj/heartbeating-job-runner",
+    "name": "cego/heartbeating-job-runner",
     "description": "Laravel Library for running commands with ZMQ heartbeats ",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
             "bootstrap/helpers.php"
         ],
         "psr-4": {
-            "Nbj\\": "src/"
+            "Cego\\": "src/"
         }
     },
     "autoload-dev": {
